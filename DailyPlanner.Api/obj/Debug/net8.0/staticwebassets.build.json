@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "89hBaPRdAXFy19QcuQYWdTgf2oK7eu4MlTqAf4YyLAo=",
+  "Source": "DailyPlanner.Api",
+  "BasePath": "_content/DailyPlanner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

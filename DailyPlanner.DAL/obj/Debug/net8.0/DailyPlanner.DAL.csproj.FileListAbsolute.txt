@@ -1,0 +1,17 @@
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.DAL.deps.json
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.DAL.runtimeconfig.json
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.DAL.dll
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.DAL.pdb
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.Domain.dll
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\bin\Debug\net8.0\DailyPlanner.Domain.pdb
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.AssemblyInfoInputs.cache
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.AssemblyInfo.cs
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.csproj.CopyComplete
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.dll
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\refint\DailyPlanner.DAL.dll
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.pdb
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\DailyPlanner.DAL.genruntimeconfig.cache
+C:\Users\Maksim\source\repos\DailyPlanner\DailyPlanner.DAL\obj\Debug\net8.0\ref\DailyPlanner.DAL.dll
